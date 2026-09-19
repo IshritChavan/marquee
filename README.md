@@ -1,5 +1,6 @@
 # Marquee
 
+[🌐 Live Demo](https://marquee-nine-inky.vercel.app/)
 **The numbers behind the stars.** Search any actor and get a career analysis: ratings over time, box office, genre mix, awards, frequent collaborators and a timeline of the films that mattered.
 
 Built with Next.js 16 (App Router), React 19, TypeScript (strict), Tailwind CSS 4, Framer Motion and Recharts. Data comes from [TMDB](https://www.themoviedb.org/) (primary) and [OMDb](https://www.omdbapi.com/) (optional IMDb / Rotten Tomatoes / Metascore).
